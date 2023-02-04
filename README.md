@@ -1,6 +1,6 @@
 # Hey, I'm Kayla 
 
-[see my portfolio](https://schkayla.github.io/portfolio/ "portfolio")
+[my portfolio](https://kayrae.tech/ "portfolio")
 
 
 I'm a writer/digital marketer turned developer. I enjoy the challenge of learning new languages and refactoring code. Currently building up my React skills. Also a cat mom, avid classic sci-fi reader, and sometimes musician.
